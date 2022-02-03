@@ -6,7 +6,7 @@ env:
     EB_APPLICATION_NAME : "MyTestAppBeanstalk"
     EB_ENVIRONMENT_NAME : "MyTestAppBeanstalk_emv"
     DEPLOY_PACKAGE_NAME : "MyTestAppBeanstalk_APP_${{github.sha}}.zip"
-    AWS_REGION_NAME : "EU (Stockholm) eu-north-1"
+    AWS_REGION_NAME : "eu-north-1"
 
 # Controls when the workflow will run
 on:
