@@ -11,10 +11,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {PUT YOUR NAME HERE}
-Status of last Deployment : <br>
-<img src = "https://github.com/aoshaaa/javaschoolexam/Ci-CD-ElasticBeansTalk/workflows/badge.svg?branch=master" > <br>
-
+* Author name : Artem Kalachev
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
